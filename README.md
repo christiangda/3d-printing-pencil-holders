@@ -1,6 +1,6 @@
 # 3d-printing-pencil-holders
 
-Parametric Pencil Holders builded using [FreeCAD](https://www.freecadweb.org/) and the [HoneycombSolid Macro](https://github.com/christiangda/FreeCAD-macros-HoneycombSolid)
+Parametric Pencil Holders built using [FreeCAD](https://www.freecadweb.org/) and the [HoneycombSolid Macro](https://github.com/christiangda/FreeCAD-macros-HoneycombSolid)
 
 ## Requirements
 
